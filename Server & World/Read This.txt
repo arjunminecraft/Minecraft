@@ -1,0 +1,9 @@
+Read the Instructions properly...
+
+You can go to GitHub repo and directly open using GitHub Desktop then you can host 
+
+After playing game, changes will be made which should be recognised and shown in GitHub Desktop, then you can push to origin.
+
+Next time when we play, I can open GitHub repo and open with GitHub Desktop and start hosting as it already has updated world 
+
+And so on...
